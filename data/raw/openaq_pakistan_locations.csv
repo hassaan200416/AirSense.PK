@@ -1,0 +1,101 @@
+location_id,location_name,city,latitude,longitude,is_monitor,parameters,data_from,data_to
+8088,Peshawar,N/A,34.005852,71.53775,True,pm25,2019-06-16T05:00:00+05:00,2025-03-25T04:00:00+05:00
+8156,Karachi,N/A,24.8415,67.0091,True,pm25,2019-05-23T03:00:00+05:00,2025-03-04T17:00:00+05:00
+8634,US Diplomatic Post: Islamabad,Islamabad,33.7235,73.11822,True,pm25,2019-05-23T03:00:00+05:00,2025-03-04T17:00:00+05:00
+8664,US Diplomatic Post: Lahore,Lahore,31.560078,74.33589,True,pm25,2019-05-23T03:00:00+05:00,2025-03-04T17:00:00+05:00
+233470,Islamabad,N/A,33.725614,73.11602,True,pm25,2021-08-26T20:00:00+05:00,2026-02-16T18:00:00+05:00
+1894633,"Karachi, Pakistan",,24.811053632574033,67.05825434267292,False,"pm1, pm10, pm25, temperature, temperature",2023-11-28T21:58:32+05:00,2024-02-28T17:42:56+05:00
+1894641,Lahore,,31.54815,74.34396,False,"pm1, pm10, pm25, temperature, temperature",2023-11-28T21:58:05+05:00,2026-09-01T01:03:02+05:00
+3089895,"Soomra Society, Scheme 33, Karachi",,24.960929,67.161759,False,"pm1, pm10, pm25, relativehumidity, temperature, um003",2024-10-02T22:00:00+05:00,2024-10-25T21:00:00+05:00
+3182341,"Soomra Society, Scheme 33, Karachi",,24.960929,67.161759,False,"pm1, pm10, pm25, relativehumidity, temperature, um003",2024-10-25T23:00:00+05:00,2024-10-28T10:00:00+05:00
+3213801,"Soomra Society, Scheme 33, Karachi",,24.960929,67.161759,False,"pm1, pm10, pm25, relativehumidity, temperature, um003",2024-11-02T00:00:00+05:00,2024-11-07T18:00:00+05:00
+3292849,Farhan Shah Labs,,32.424312,74.52885,False,"pm1, pm10, pm25, relativehumidity, temperature, um003",2024-11-30T06:00:00+05:00,2026-11-14T15:00:00+05:00
+4296966,Buraq integrated solutions,,33.643208,73.068119,False,"pm1, pm25, relativehumidity, temperature, um003",2025-05-06T12:00:00+05:00,2025-05-17T13:00:00+05:00
+4515157,"Barki, Lahore",,31.4591591,74.5396309,False,"pm1, pm25, relativehumidity, temperature, um003",2025-05-24T22:00:00+05:00,2026-11-06T19:00:00+05:00
+4515644,"F-7, Islamabad",,33.7213352,73.0560998,False,"pm1, pm25, relativehumidity, temperature, um003",2025-05-24T22:00:00+05:00,2026-11-14T15:00:00+05:00
+4527035,Civil Secretariat,,31.565942,74.2993626,False,"pm1, pm25, relativehumidity, temperature, um003",2025-05-26T12:00:00+05:00,2026-11-14T15:00:00+05:00
+4527173,Learning Alliance Intl. DHA,,31.525621,74.436078,False,"pm1, pm25, relativehumidity, temperature, um003",2025-05-26T14:00:00+05:00,2026-11-14T15:00:00+05:00
+4527306,FOOT & MOUTH DISEASE RESEARCH CENTRE,,31.53574,74.43538,False,"pm1, pm25, relativehumidity, temperature, um003",2025-05-26T16:00:00+05:00,2026-11-14T15:00:00+05:00
+4527402,"HBFC Society, DHA Phase 5 (Hussainy House)",,31.4571645,74.4106586,False,"pm1, pm25, relativehumidity, temperature, um003",2025-05-26T18:00:00+05:00,2026-11-14T15:00:00+05:00
+4535267,Gajju Matta (Kahna),,31.377378,74.350574,False,"pm1, pm25, relativehumidity, temperature, um003",2025-05-27T12:00:00+05:00,2026-10-06T12:00:00+05:00
+4554236,Rawalpindi Women University,,33.6452478,73.0646181,False,"pm1, pm25, relativehumidity, temperature, um003",2025-05-29T12:00:00+05:00,2026-11-14T15:00:00+05:00
+4554729,Sandha Road,,31.562302,74.3027031,False,"pm1, pm25, relativehumidity, temperature, um003",2025-05-29T13:00:00+05:00,2026-11-14T15:00:00+05:00
+4555745,Ravi Road,,31.602875,74.300927,False,"pm1, pm25, relativehumidity, temperature, um003",2025-05-29T16:00:00+05:00,2026-11-14T15:00:00+05:00
+4556719,"Wasa 3, OHR Office ",,33.650973,73.0788731,False,"pm1, pm25, relativehumidity, temperature, um003",2025-05-29T17:00:00+05:00,2026-11-14T15:00:00+05:00
+4557686,Shalimar Town,,31.574289,74.447898,False,"pm1, pm25, relativehumidity, temperature, um003",2025-05-29T18:00:00+05:00,2026-11-14T15:00:00+05:00
+4565419,Social Welfare Department,,33.6278837,73.0924564,False,"pm1, pm25, relativehumidity, temperature, um003",2025-05-30T11:00:00+05:00,2026-11-14T15:00:00+05:00
+4565932,WASA Head Office 1,,33.6022915,73.0560117,False,"pm1, pm25, relativehumidity, temperature, um003",2025-05-30T12:00:00+05:00,2026-11-02T08:00:00+05:00
+4565933,"IEEE, Punjab University, LHR",,31.495322,74.295056,False,"pm1, pm25, relativehumidity, temperature, um003",2025-05-30T12:00:00+05:00,2026-11-14T15:00:00+05:00
+4566426,Punjab Food Authority,,33.6304566,73.0729694,False,"pm1, pm25, relativehumidity, temperature, um003",2025-05-30T13:00:00+05:00,2026-11-14T15:00:00+05:00
+4566427,Johar Town,,31.460056,74.280672,False,"pm1, pm25, relativehumidity, temperature, um003",2025-05-30T13:00:00+05:00,2026-01-08T10:00:00+05:00
+4567363,Public Health Engineering,,33.6335684,73.0614477,False,"pm1, pm25, relativehumidity, temperature, um003",2025-05-30T14:00:00+05:00,2026-11-14T15:00:00+05:00
+4567364,"Conservator of Forest, North zone",,33.540583,73.116917,False,"pm1, pm25, relativehumidity, temperature, um003",2025-05-30T14:00:00+05:00,2026-11-14T15:00:00+05:00
+4567932,PHA Head Office,,33.6055187,73.0611438,False,"pm1, pm25, relativehumidity, temperature, um003",2025-05-30T16:00:00+05:00,2026-11-14T15:00:00+05:00
+4568423,Model Town,,31.491676,74.313288,False,"pm1, pm25, relativehumidity, temperature, um003",2025-05-30T17:00:00+05:00,2026-11-14T15:00:00+05:00
+4568424,E11/4 Sector Islamabad,,33.698979,72.981907,False,"pm1, pm25, relativehumidity, temperature, um003",2025-05-30T17:00:00+05:00,2026-11-14T15:00:00+05:00
+4579733,WASA 2 (Sufaid tanki),,33.6386254,73.069351,False,"pm1, pm25, relativehumidity, temperature, um003",2025-05-31T16:00:00+05:00,2026-11-14T15:00:00+05:00
+4600078,Abasyn University,,34.0321798,71.5864122,False,"pm1, pm25, relativehumidity, temperature, um003",2025-06-02T15:00:00+05:00,2026-11-14T15:00:00+05:00
+4605118,Small industrial development board(SIDB),,33.9817904,71.5567563,False,"pm1, pm25, relativehumidity, temperature, um003",2025-06-02T23:00:00+05:00,2026-11-14T15:00:00+05:00
+4605119,College Road,,31.421799,74.274837,False,"pm1, pm25, relativehumidity, temperature, um003",2025-06-02T23:00:00+05:00,2026-11-14T15:00:00+05:00
+4605120,Hayatabad phase 7,,33.9687263,71.4147126,False,"pm1, pm25, relativehumidity, temperature, um003",2025-06-02T23:00:00+05:00,2026-11-14T15:00:00+05:00
+4607067,Shaheed Benazir Women University,,34.0559766,71.5646276,False,"pm1, pm25, relativehumidity, temperature, um003",2025-06-03T06:00:00+05:00,2026-10-23T11:00:00+05:00
+4607068,NIUIP,,33.9935232,71.4440704,False,"pm1, pm25, relativehumidity, temperature, um003",2025-06-03T08:00:00+05:00,2026-11-14T15:00:00+05:00
+4608419,IMSciences Institute Peshwar,,33.9581864,71.3343512,False,"pm1, pm25, relativehumidity, temperature, um003",2025-06-03T15:00:00+05:00,2026-11-14T15:00:00+05:00
+4608421,"Assistant Commissioner Office, Allama Iqbal ",,31.47188,74.239512,False,"pm1, pm25, relativehumidity, temperature, um003",2025-06-03T14:00:00+05:00,2025-08-01T15:00:00+05:00
+4608422,Park Road F-8/1 Sector Islamabad,,33.7102628,73.0312832,False,"pm1, pm25, relativehumidity, temperature, um003",2025-06-03T14:00:00+05:00,2026-11-14T15:00:00+05:00
+4608423,WWF Office ,,33.9905988,71.4996196,False,"pm1, pm25, relativehumidity, temperature, um003",2025-06-03T14:00:00+05:00,2026-11-14T15:00:00+05:00
+4609261,"Pajian, Raiwind",,31.299695,74.22505,False,"pm1, pm25, relativehumidity, temperature, um003",2025-06-03T17:00:00+05:00,2026-11-14T13:00:00+05:00
+4609262,Directorate General Local Gov ,,33.9916663,71.435054,False,"pm1, pm25, relativehumidity, temperature, um003",2025-06-03T18:00:00+05:00,2026-11-14T15:00:00+05:00
+4609307,Khyber Medical University ,,33.989115,71.4359101,False,"pm1, pm25, relativehumidity, temperature, um003",2025-06-03T20:00:00+05:00,2026-11-10T09:00:00+05:00
+4609353,Kahna Hospital ,,31.371023502439286,74.36487268127355,False,"pm1, pm25, relativehumidity, temperature, um003",2025-06-03T19:00:00+05:00,2026-11-14T15:00:00+05:00
+4609354,Ashrafia Colony,,34.0268637,71.5772755,False,"pm1, pm25, relativehumidity, temperature, um003",2025-06-03T21:00:00+05:00,2026-11-14T15:00:00+05:00
+4614770,EPA Office,,33.977293,71.5654702,False,"pm1, pm25, relativehumidity, temperature, um003",2025-06-04T09:00:00+05:00,2026-10-02T23:00:00+05:00
+4616262,District Health Authority,,33.6333084,73.0488857,False,"pm1, pm25, relativehumidity, temperature, um003",2025-06-04T12:00:00+05:00,2026-11-14T12:00:00+05:00
+4618315,DC Office Murree,,33.9065558,73.3980069,False,"pm1, pm25, relativehumidity, temperature, um003",2025-06-04T16:00:00+05:00,2025-11-20T14:00:00+05:00
+4618814,Gulberg III,,31.508051,74.337544,False,"pm1, pm25, relativehumidity, temperature, um003",2025-06-04T17:00:00+05:00,2026-11-14T15:00:00+05:00
+4629400,"PHA, Sialkot",,32.505567,74.536067,False,"pm1, pm25, relativehumidity, temperature, um003",2025-06-05T14:00:00+05:00,2026-11-14T15:00:00+05:00
+4629401,SCCI ,,32.507924,74.537957,False,"pm1, pm25, relativehumidity, temperature, um003",2025-06-05T15:00:00+05:00,2026-11-14T15:00:00+05:00
+4630451,Dc Office Sialkot,,32.505286,74.532952,False,"pm1, pm25, relativehumidity, temperature, um003",2025-06-05T17:00:00+05:00,2025-08-04T14:00:00+05:00
+4645154,Urban Policy Unit,,33.9899378,71.4991258,False,"pm1, pm25, relativehumidity, temperature, um003",2025-06-06T23:00:00+05:00,2026-11-14T15:00:00+05:00
+4698865,Cantonment,,31.539422,74.413792,False,"pm1, pm25, relativehumidity, temperature, um003",2025-06-11T13:00:00+05:00,2026-11-14T15:00:00+05:00
+4699919,Pak Arab,,31.418387,74.345283,False,"pm1, pm25, relativehumidity, temperature, um003",2025-09-19T05:00:00+05:00,2026-11-14T15:00:00+05:00
+4700982,Samanabad,,31.541983,74.298065,False,"pm1, pm25, relativehumidity, temperature, um003",2025-06-11T19:00:00+05:00,2026-11-14T15:00:00+05:00
+4708999,WWF,,32.4598818,74.5130851,False,"pm1, pm25, relativehumidity, temperature, um003",2025-06-12T11:00:00+05:00,2026-09-22T17:00:00+05:00
+4710567,Regional Ombudsman Office,,32.48209,74.52664,False,"pm1, pm25, relativehumidity, temperature, um003",2025-06-12T14:00:00+05:00,2026-10-21T09:00:00+05:00
+4712030,PSGMEA,,32.487371,74.512444,False,"pm1, pm25, relativehumidity, temperature, um003",2025-06-12T16:00:00+05:00,2026-11-14T12:00:00+05:00
+4712608,"Craftive  Apparels, Defence Road",,32.49447,74.498977,False,"pm1, pm25, relativehumidity, temperature, um003",2025-06-12T18:00:00+05:00,2025-06-27T06:00:00+05:00
+4721112,Agriculture  Office Emnabad Road,,32.465555,74.523957,False,"pm1, pm25, relativehumidity, temperature, um003",2025-06-13T11:00:00+05:00,2026-09-11T15:00:00+05:00
+4721113,SWMC,,32.516512,74.51071,False,"pm1, pm25, relativehumidity, temperature, um003",2025-06-13T11:00:00+05:00,2026-11-14T13:00:00+05:00
+4722655,Divisional Forest office Kotli Araian,,32.59938,74.479594,False,"pm1, pm25, relativehumidity, temperature, um003",2025-06-13T13:00:00+05:00,2026-10-30T14:00:00+05:00
+4723667,Sialkot Cantt,,32.54477,74.569535,False,"pm1, pm25, relativehumidity, temperature, um003",2025-06-13T16:00:00+05:00,2026-11-14T01:00:00+05:00
+4725232,AC  Sambrial,,32.477858,74.337355,False,"pm1, pm25, relativehumidity, temperature, um003",2025-06-13T19:00:00+05:00,2026-11-14T15:00:00+05:00
+4755317,Walled cities Authority office ,,30.19881,71.46818,False,"pm1, pm25, relativehumidity, temperature, um003",2025-06-16T11:00:00+05:00,2026-09-22T16:00:00+05:00
+4756280,University of Balochistan,,30.162079,66.989772,False,"pm1, pm25, relativehumidity, temperature, um003",2025-06-16T13:00:00+05:00,2026-11-14T13:00:00+05:00
+4756281,"WASA office, Chungi #09",,30.20645,71.47604,False,"pm1, pm25, relativehumidity, temperature, um003",2025-06-16T13:00:00+05:00,2025-06-16T14:00:00+05:00
+4757303,Industries and Commerce,,30.17716,67.008202,False,"pm1, pm25, relativehumidity, temperature, um003",2025-06-16T14:00:00+05:00,2026-11-14T15:00:00+05:00
+4757304,Quetta Commissioner Office ,,30.197606,67.0101348,False,"pm1, pm25, relativehumidity, temperature, um003",2025-06-16T15:00:00+05:00,2026-11-14T15:00:00+05:00
+4757305,Forman Christian College & Chartered University,,31.521146,74.333954,False,"pm1, pm25, relativehumidity, temperature, um003",2025-06-16T15:00:00+05:00,2026-11-14T15:00:00+05:00
+4757794,"Multan Industrial EState, Board of Management",,30.12721,71.38191,False,"pm1, pm25, relativehumidity, temperature, um003",2025-06-16T16:00:00+05:00,2025-06-16T16:00:00+05:00
+4758328,Multan Industrial Estate,,30.12714,71.38146,False,"pm1, pm25, relativehumidity, temperature, um003",2025-09-22T13:00:00+05:00,2026-11-14T15:00:00+05:00
+4758816,BUITEMS,,30.2713,66.9379,False,"pm1, pm25, relativehumidity, temperature, um003",2025-06-16T18:00:00+05:00,2025-08-20T13:00:00+05:00
+4759316,SWISS Plaza Quetta,,30.201561,67.014481,False,"pm1, pm25, relativehumidity, temperature, um003",2025-06-16T19:00:00+05:00,2026-10-24T14:00:00+05:00
+4760841,Metropolitan corporation office ,,30.17631,71.48861,False,"pm1, pm25, relativehumidity, temperature, um003",2025-06-16T22:00:00+05:00,2026-11-14T15:00:00+05:00
+4767238,Institute of Public Health,,30.193314,66.955154,False,"pm1, pm25, relativehumidity, temperature, um003",2025-06-17T11:00:00+05:00,2026-11-14T15:00:00+05:00
+4767239,NFC IET Multan,,30.22382,71.53613,False,"pm1, pm25, relativehumidity, temperature, um003",2025-09-19T05:00:00+05:00,2026-11-14T15:00:00+05:00
+4767718,"G3 Engineering Consultancy, Quetta",,30.249359,66.978377,False,"pm1, pm25, relativehumidity, temperature, um003",2025-06-17T12:00:00+05:00,2026-11-14T15:00:00+05:00
+4769229,women university,,30.2515,71.57288,False,"pm1, pm25, relativehumidity, temperature, um003",2025-06-17T14:00:00+05:00,2026-11-14T15:00:00+05:00
+4769230,"Simongli Town, Quetta",,30.082855,66.96167,False,"pm1, pm25, relativehumidity, temperature, um003",2025-06-17T14:00:00+05:00,2026-11-14T15:00:00+05:00
+4770826,Helping hand Balochestan,,30.240204,67.019051,False,"pm1, pm25, relativehumidity, temperature, um003",2025-06-17T18:00:00+05:00,2026-11-11T15:00:00+05:00
+4770827,Muhammad Nawaz Sharif University of  Agriculture,,30.1477,71.44326,False,"pm1, pm25, relativehumidity, temperature, um003",2025-06-17T18:00:00+05:00,2026-11-14T15:00:00+05:00
+4771376,EPA OFFICE,,30.217964,66.977745,False,"pm1, pm25, relativehumidity, temperature, um003",2025-06-17T17:00:00+05:00,2026-11-14T15:00:00+05:00
+4771378,Cantt Public School & College,,30.1827,71.43621,False,"pm1, pm25, relativehumidity, temperature, um003",2025-06-17T19:00:00+05:00,2026-11-14T15:00:00+05:00
+4771882,Jinnah Town Quetta ,,30.208897,67.002403,False,"pm1, pm25, relativehumidity, temperature, um003",2025-06-17T20:00:00+05:00,2026-11-14T15:00:00+05:00
+4779254,District officer Industries / Registrar of Firms,,30.207826,71.439894,False,"pm1, pm25, relativehumidity, temperature, um003",2025-06-18T11:00:00+05:00,2026-11-14T15:00:00+05:00
+4779736,"WASA office, Chungi #09",,30.20654,71.4762,False,"pm1, pm25, relativehumidity, temperature, um003",2025-06-18T12:00:00+05:00,2026-11-14T15:00:00+05:00
+4780772,"UC office, khushal colony",,30.20817,71.49625,False,"pm1, pm25, relativehumidity, temperature, um003",2025-06-18T13:00:00+05:00,2026-01-30T15:00:00+05:00
+4782810,"House#E/21 B,Khayaban Ali Housing scheme ",,29.35128,71.69255,False,"pm1, pm25, relativehumidity, temperature, um003",2025-06-18T18:00:00+05:00,2026-07-25T19:00:00+05:00
+4790880,PHA Bahawalpur,,29.38746,71.70984,False,"pm1, pm25, relativehumidity, temperature, um003",2025-06-19T11:00:00+05:00,2026-09-23T15:00:00+05:00
+4791416,Allama iqbal hospital,,32.503689,74.547365,False,"pm1, pm25, relativehumidity, temperature, um003",2025-06-19T12:00:00+05:00,2026-11-13T18:00:00+05:00
+4791923,Commissioner Office,,29.39228,71.69131,False,"pm1, pm25, relativehumidity, temperature, um003",2025-06-19T13:00:00+05:00,2026-11-14T15:00:00+05:00
+4791924,Urban Resource Center,,24.868,67.081833,False,"pm1, pm25, relativehumidity, temperature, um003",2025-06-19T13:00:00+05:00,2026-11-14T15:00:00+05:00
+4792427,Grand Asian University,,32.437542,74.577984,False,"pm1, pm25, relativehumidity, temperature, um003",2025-06-19T13:00:00+05:00,2026-11-03T12:00:00+05:00

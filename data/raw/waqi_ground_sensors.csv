@@ -1,0 +1,5 @@
+city,station_name,timestamp,aqi,pm25,pm10,carbon_monoxide,nitrogen_dioxide,sulphur_dioxide,ozone,temperature,humidity,wind_speed,pressure,dominant_pollutant,data_source
+Lahore,"Lahore US Embassy, Pakistan",2025-02-18 18:00:00,34,34,,,,,,24.5,32.0,3.0,1014.0,pm25,WAQI_ground_sensor
+Karachi,"Karachi US Consulate, Pakistan",2025-03-04 16:00:00,161,161,,,,,,31.0,3.0,5.1,1016.0,pm25,WAQI_ground_sensor
+Islamabad,"Islamabad US Embassy, Pakistan",2026-02-16 17:00:00,154,154,,,,,,12.0,48.6,2.0,797.2,pm25,WAQI_ground_sensor
+Peshawar,"Peshawar US Consulate, Pakistan",2025-03-04 15:00:00,25,25,,,,,,20.0,18.0,4.1,1018.0,pm25,WAQI_ground_sensor

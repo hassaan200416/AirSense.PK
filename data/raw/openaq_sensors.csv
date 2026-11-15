@@ -1,0 +1,101 @@
+location_id,location_name,sensor_id,parameter,unit
+8088,Peshawar,23455,pm25,µg/m³
+8156,Karachi,23747,pm25,µg/m³
+8634,US Diplomatic Post: Islamabad,25066,pm25,µg/m³
+8664,US Diplomatic Post: Lahore,25135,pm25,µg/m³
+233470,Islamabad,1343270,pm25,µg/m³
+1894633,"Karachi, Pakistan",7466370,pm25,µg/m³
+1894641,Lahore,7466365,pm25,µg/m³
+3089895,"Soomra Society, Scheme 33, Karachi",10815113,pm25,µg/m³
+3182341,"Soomra Society, Scheme 33, Karachi",11077530,pm25,µg/m³
+3213801,"Soomra Society, Scheme 33, Karachi",11157382,pm25,µg/m³
+3292849,Farhan Shah Labs,11480306,pm25,µg/m³
+4296966,Buraq integrated solutions,12960851,pm25,µg/m³
+4515157,"Barki, Lahore",13137726,pm25,µg/m³
+4515644,"F-7, Islamabad",13137731,pm25,µg/m³
+4527035,Civil Secretariat,13153587,pm25,µg/m³
+4527173,Learning Alliance Intl. DHA,13154528,pm25,µg/m³
+4527306,FOOT & MOUTH DISEASE RESEARCH CENTRE,13155469,pm25,µg/m³
+4527402,"HBFC Society, DHA Phase 5 (Hussainy House)",13156083,pm25,µg/m³
+4535267,Gajju Matta (Kahna),13163333,pm25,µg/m³
+4554236,Rawalpindi Women University,13181992,pm25,µg/m³
+4554729,Sandha Road,13182280,pm25,µg/m³
+4555745,Ravi Road,13183459,pm25,µg/m³
+4556719,"Wasa 3, OHR Office ",13183766,pm25,µg/m³
+4557686,Shalimar Town,13184347,pm25,µg/m³
+4565419,Social Welfare Department,13190424,pm25,µg/m³
+4565932,WASA Head Office 1,13190993,pm25,µg/m³
+4565933,"IEEE, Punjab University, LHR",13190998,pm25,µg/m³
+4566426,Punjab Food Authority,13191310,pm25,µg/m³
+4566427,Johar Town,13191315,pm25,µg/m³
+4567363,Public Health Engineering,13191604,pm25,µg/m³
+4567364,"Conservator of Forest, North zone",13191609,pm25,µg/m³
+4567932,PHA Head Office,13192453,pm25,µg/m³
+4568423,Model Town,13192746,pm25,µg/m³
+4568424,E11/4 Sector Islamabad,13192751,pm25,µg/m³
+4579733,WASA 2 (Sufaid tanki),13201383,pm25,µg/m³
+4600078,Abasyn University,13219419,pm25,µg/m³
+4605118,Small industrial development board(SIDB),13223102,pm25,µg/m³
+4605119,College Road,13223107,pm25,µg/m³
+4605120,Hayatabad phase 7,13223112,pm25,µg/m³
+4607067,Shaheed Benazir Women University,13225923,pm25,µg/m³
+4607068,NIUIP,13225928,pm25,µg/m³
+4608419,IMSciences Institute Peshwar,13229187,pm25,µg/m³
+4608421,"Assistant Commissioner Office, Allama Iqbal ",13229197,pm25,µg/m³
+4608422,Park Road F-8/1 Sector Islamabad,13229202,pm25,µg/m³
+4608423,WWF Office ,13229207,pm25,µg/m³
+4609261,"Pajian, Raiwind",13230342,pm25,µg/m³
+4609262,Directorate General Local Gov ,13230347,pm25,µg/m³
+4609307,Khyber Medical University ,13230645,pm25,µg/m³
+4609353,Kahna Hospital ,13230942,pm25,µg/m³
+4609354,Ashrafia Colony,13230947,pm25,µg/m³
+4614770,EPA Office,13235488,pm25,µg/m³
+4616262,District Health Authority,13236697,pm25,µg/m³
+4618315,DC Office Murree,13238491,pm25,µg/m³
+4618814,Gulberg III,13238783,pm25,µg/m³
+4629400,"PHA, Sialkot",13247149,pm25,µg/m³
+4629401,SCCI ,13247154,pm25,µg/m³
+4630451,Dc Office Sialkot,13248051,pm25,µg/m³
+4645154,Urban Policy Unit,13259695,pm25,µg/m³
+4698865,Cantonment,13300980,pm25,µg/m³
+4699919,Pak Arab,14152835,pm25,µg/m³
+4700982,Samanabad,13302769,pm25,µg/m³
+4708999,WWF,13308623,pm25,µg/m³
+4710567,Regional Ombudsman Office,13310091,pm25,µg/m³
+4712030,PSGMEA,13310654,pm25,µg/m³
+4712608,"Craftive  Apparels, Defence Road",13311519,pm25,µg/m³
+4721112,Agriculture  Office Emnabad Road,13318038,pm25,µg/m³
+4721113,SWMC,13318043,pm25,µg/m³
+4722655,Divisional Forest office Kotli Araian,13319197,pm25,µg/m³
+4723667,Sialkot Cantt,13319770,pm25,µg/m³
+4725232,AC  Sambrial,13320880,pm25,µg/m³
+4755317,Walled cities Authority office ,13339963,pm25,µg/m³
+4756280,University of Balochistan,13340547,pm25,µg/m³
+4756281,"WASA office, Chungi #09",13340552,pm25,µg/m³
+4757303,Industries and Commerce,13341442,pm25,µg/m³
+4757304,Quetta Commissioner Office ,13341447,pm25,µg/m³
+4757305,Forman Christian College & Chartered University,13341452,pm25,µg/m³
+4757794,"Multan Industrial EState, Board of Management",13341736,pm25,µg/m³
+4758328,Multan Industrial Estate,14182582,pm25,µg/m³
+4758816,BUITEMS,13342587,pm25,µg/m³
+4759316,SWISS Plaza Quetta,13342868,pm25,µg/m³
+4760841,Metropolitan corporation office ,13343943,pm25,µg/m³
+4767238,Institute of Public Health,13348851,pm25,µg/m³
+4767239,NFC IET Multan,14152885,pm25,µg/m³
+4767718,"G3 Engineering Consultancy, Quetta",13349151,pm25,µg/m³
+4769229,women university,13350036,pm25,µg/m³
+4769230,"Simongli Town, Quetta",13350041,pm25,µg/m³
+4770826,Helping hand Balochestan,13351512,pm25,µg/m³
+4770827,Muhammad Nawaz Sharif University of  Agriculture,13351517,pm25,µg/m³
+4771376,EPA OFFICE,13352091,pm25,µg/m³
+4771378,Cantt Public School & College,13352101,pm25,µg/m³
+4771882,Jinnah Town Quetta ,13352401,pm25,µg/m³
+4779254,District officer Industries / Registrar of Firms,13358109,pm25,µg/m³
+4779736,"WASA office, Chungi #09",13358409,pm25,µg/m³
+4780772,"UC office, khushal colony",13359286,pm25,µg/m³
+4782810,"House#E/21 B,Khayaban Ali Housing scheme ",13360745,pm25,µg/m³
+4790880,PHA Bahawalpur,13367550,pm25,µg/m³
+4791416,Allama iqbal hospital,13368149,pm25,µg/m³
+4791923,Commissioner Office,13368459,pm25,µg/m³
+4791924,Urban Resource Center,13368464,pm25,µg/m³
+4792427,Grand Asian University,13368759,pm25,µg/m³

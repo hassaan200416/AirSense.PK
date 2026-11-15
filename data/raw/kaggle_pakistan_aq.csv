@@ -1,0 +1,308 @@
+Country,City,AQI Value,AQI Category,CO AQI Value,CO AQI Category,Ozone AQI Value,Ozone AQI Category,NO2 AQI Value,NO2 AQI Category,PM2.5 AQI Value,PM2.5 AQI Category
+Pakistan,Radhan,158,Unhealthy,1,Good,50,Good,1,Good,158,Unhealthy
+Pakistan,Dhadar,157,Unhealthy,1,Good,89,Moderate,0,Good,157,Unhealthy
+Pakistan,Digri,153,Unhealthy,1,Good,40,Good,0,Good,153,Unhealthy
+Pakistan,Bahawalnagar,500,Hazardous,1,Good,38,Good,1,Good,466,Hazardous
+Pakistan,Bat Khela,117,Unhealthy for Sensitive Groups,1,Good,117,Unhealthy for Sensitive Groups,1,Good,78,Moderate
+Pakistan,Dalbandin,160,Unhealthy,0,Good,39,Good,0,Good,160,Unhealthy
+Pakistan,Bhalwal,179,Unhealthy,3,Good,179,Unhealthy,2,Good,166,Unhealthy
+Pakistan,Eminabad,153,Unhealthy,3,Good,153,Unhealthy,1,Good,152,Unhealthy
+Pakistan,Madeji,167,Unhealthy,1,Good,49,Good,1,Good,167,Unhealthy
+Pakistan,Harunabad,500,Hazardous,1,Good,43,Good,0,Good,443,Hazardous
+Pakistan,Kot Radha Kishan,230,Very Unhealthy,5,Good,130,Unhealthy for Sensitive Groups,9,Good,230,Very Unhealthy
+Pakistan,Kamra,135,Unhealthy for Sensitive Groups,2,Good,135,Unhealthy for Sensitive Groups,1,Good,86,Moderate
+Pakistan,Narowal,164,Unhealthy,3,Good,164,Unhealthy,1,Good,138,Unhealthy for Sensitive Groups
+Pakistan,Kohat,101,Unhealthy for Sensitive Groups,1,Good,62,Moderate,0,Good,101,Unhealthy for Sensitive Groups
+Pakistan,Kanganpur,175,Unhealthy,2,Good,145,Unhealthy for Sensitive Groups,1,Good,175,Unhealthy
+Pakistan,Multan,194,Unhealthy,3,Good,176,Unhealthy,2,Good,194,Unhealthy
+Pakistan,Johi,162,Unhealthy,1,Good,37,Good,0,Good,162,Unhealthy
+Pakistan,Lakhi,163,Unhealthy,1,Good,71,Moderate,1,Good,163,Unhealthy
+Pakistan,Lodhran,500,Hazardous,1,Good,45,Good,0,Good,364,Hazardous
+Pakistan,Mailsi,500,Hazardous,1,Good,45,Good,0,Good,386,Hazardous
+Pakistan,Kunjah,191,Unhealthy,2,Good,163,Unhealthy,1,Good,191,Unhealthy
+Pakistan,Mastung,102,Unhealthy for Sensitive Groups,0,Good,43,Good,0,Good,102,Unhealthy for Sensitive Groups
+Pakistan,Faisalabad,301,Hazardous,1,Good,82,Moderate,1,Good,301,Hazardous
+Pakistan,Nankana Sahib,356,Hazardous,2,Good,100,Unhealthy for Sensitive Groups,1,Good,354,Hazardous
+Pakistan,Khushab,165,Unhealthy,4,Good,78,Moderate,6,Good,165,Unhealthy
+Pakistan,Liliani,169,Unhealthy,5,Good,69,Moderate,8,Good,169,Unhealthy
+Pakistan,Dera Ismail Khan,180,Unhealthy,2,Good,107,Unhealthy for Sensitive Groups,0,Good,180,Unhealthy
+Pakistan,Bhit Shah,157,Unhealthy,1,Good,24,Good,2,Good,157,Unhealthy
+Pakistan,Akora,182,Unhealthy,5,Good,51,Moderate,8,Good,182,Unhealthy
+Pakistan,Rabwah,163,Unhealthy,2,Good,148,Unhealthy for Sensitive Groups,1,Good,163,Unhealthy
+Pakistan,Rasulnagar,155,Unhealthy,2,Good,155,Unhealthy,1,Good,124,Unhealthy for Sensitive Groups
+Pakistan,Kot Addu,202,Very Unhealthy,1,Good,88,Moderate,1,Good,202,Very Unhealthy
+Pakistan,Toba Tek Singh,295,Very Unhealthy,1,Good,55,Moderate,1,Good,295,Very Unhealthy
+Pakistan,Sukheke,276,Very Unhealthy,2,Good,140,Unhealthy for Sensitive Groups,1,Good,276,Very Unhealthy
+Pakistan,Shahdadpur,171,Unhealthy,1,Good,43,Good,0,Good,171,Unhealthy
+Pakistan,Gujrat,161,Unhealthy,3,Good,160,Unhealthy,1,Good,161,Unhealthy
+Pakistan,Haveli,166,Unhealthy,3,Good,166,Unhealthy,1,Good,153,Unhealthy
+Pakistan,Jalalpur Pirwala,183,Unhealthy,2,Good,135,Unhealthy for Sensitive Groups,1,Good,183,Unhealthy
+Pakistan,Islamabad,178,Unhealthy,5,Good,42,Good,11,Good,178,Unhealthy
+Pakistan,Islamkot,229,Very Unhealthy,1,Good,27,Good,0,Good,211,Very Unhealthy
+Pakistan,Jampur,188,Unhealthy,2,Good,48,Good,4,Good,188,Unhealthy
+Pakistan,Karachi,151,Unhealthy,2,Good,18,Good,4,Good,151,Unhealthy
+Pakistan,Khanpur,180,Unhealthy,2,Good,22,Good,9,Good,180,Unhealthy
+Pakistan,Muzaffargarh,191,Unhealthy,2,Good,141,Unhealthy for Sensitive Groups,2,Good,191,Unhealthy
+Pakistan,Tangi,83,Moderate,1,Good,83,Moderate,1,Good,80,Moderate
+Pakistan,Tandlianwala,308,Hazardous,4,Good,91,Moderate,8,Good,308,Hazardous
+Pakistan,Kahna Nau,160,Unhealthy,3,Good,131,Unhealthy for Sensitive Groups,1,Good,160,Unhealthy
+Pakistan,Sodhra,162,Unhealthy,3,Good,160,Unhealthy,1,Good,162,Unhealthy
+Pakistan,Khurianwala,171,Unhealthy,3,Good,171,Unhealthy,1,Good,163,Unhealthy
+Pakistan,Mansehra,176,Unhealthy,5,Good,29,Good,10,Good,176,Unhealthy
+Pakistan,Liaqatabad,174,Unhealthy,3,Good,147,Unhealthy for Sensitive Groups,0,Good,174,Unhealthy
+Pakistan,Dera Ghazi Khan,174,Unhealthy,3,Good,150,Unhealthy,1,Good,174,Unhealthy
+Pakistan,Sahiwal,163,Unhealthy,3,Good,163,Unhealthy,1,Good,156,Unhealthy
+Pakistan,Arifwala,164,Unhealthy,3,Good,164,Unhealthy,1,Good,154,Unhealthy
+Pakistan,Naushahro Firoz,158,Unhealthy,1,Good,44,Good,0,Good,158,Unhealthy
+Pakistan,Chambar,172,Unhealthy,1,Good,43,Good,0,Good,172,Unhealthy
+Pakistan,Thatta,117,Unhealthy for Sensitive Groups,1,Good,20,Good,2,Good,117,Unhealthy for Sensitive Groups
+Pakistan,Sakrand,149,Unhealthy for Sensitive Groups,1,Good,23,Good,1,Good,149,Unhealthy for Sensitive Groups
+Pakistan,Mach,124,Unhealthy for Sensitive Groups,1,Good,35,Good,1,Good,124,Unhealthy for Sensitive Groups
+Pakistan,Bannu,176,Unhealthy,3,Good,114,Unhealthy for Sensitive Groups,1,Good,176,Unhealthy
+Pakistan,Qadirpur Ran,161,Unhealthy,3,Good,152,Unhealthy,1,Good,161,Unhealthy
+Pakistan,Pindi Bhattian,175,Unhealthy,4,Good,78,Moderate,8,Good,175,Unhealthy
+Pakistan,Bahawalpur,189,Unhealthy,2,Good,126,Unhealthy for Sensitive Groups,0,Good,189,Unhealthy
+Pakistan,Sialkot,162,Unhealthy,3,Good,149,Unhealthy for Sensitive Groups,1,Good,162,Unhealthy
+Pakistan,Talagang,173,Unhealthy,3,Good,123,Unhealthy for Sensitive Groups,0,Good,173,Unhealthy
+Pakistan,Talhar,152,Unhealthy,1,Good,39,Good,0,Good,152,Unhealthy
+Pakistan,Dina,164,Unhealthy,1,Good,80,Moderate,1,Good,164,Unhealthy
+Pakistan,Fazalpur,199,Unhealthy,3,Good,173,Unhealthy,1,Good,199,Unhealthy
+Pakistan,Mitha Tiwana,157,Unhealthy,2,Good,106,Unhealthy for Sensitive Groups,0,Good,157,Unhealthy
+Pakistan,Turbat,147,Unhealthy for Sensitive Groups,1,Good,50,Good,0,Good,147,Unhealthy for Sensitive Groups
+Pakistan,Mehar,160,Unhealthy,1,Good,49,Good,0,Good,160,Unhealthy
+Pakistan,Bhan,161,Unhealthy,1,Good,40,Good,0,Good,161,Unhealthy
+Pakistan,Chiniot,275,Very Unhealthy,2,Good,112,Unhealthy for Sensitive Groups,1,Good,275,Very Unhealthy
+Pakistan,Shorkot,208,Very Unhealthy,2,Good,151,Unhealthy,1,Good,208,Very Unhealthy
+Pakistan,Baddomalhi,172,Unhealthy,5,Good,30,Good,14,Good,172,Unhealthy
+Pakistan,Uch,191,Unhealthy,2,Good,38,Good,5,Good,191,Unhealthy
+Pakistan,Minchinabad,167,Unhealthy,4,Good,88,Moderate,6,Good,167,Unhealthy
+Pakistan,Mirpur Khas,156,Unhealthy,1,Good,30,Good,2,Good,156,Unhealthy
+Pakistan,Mirpur Mathelo,162,Unhealthy,2,Good,16,Good,12,Good,162,Unhealthy
+Pakistan,Mustafabad,169,Unhealthy,4,Good,95,Moderate,6,Good,169,Unhealthy
+Pakistan,Attock,156,Unhealthy,3,Good,156,Unhealthy,1,Good,156,Unhealthy
+Pakistan,Garhi Yasin,186,Unhealthy,1,Good,115,Unhealthy for Sensitive Groups,1,Good,186,Unhealthy
+Pakistan,Kabirwala,159,Unhealthy,3,Good,156,Unhealthy,1,Good,159,Unhealthy
+Pakistan,Kalur Kot,174,Unhealthy,3,Good,150,Unhealthy,0,Good,174,Unhealthy
+Pakistan,Jaranwala,167,Unhealthy,3,Good,148,Unhealthy for Sensitive Groups,1,Good,167,Unhealthy
+Pakistan,Jhudo,163,Unhealthy,1,Good,38,Good,0,Good,163,Unhealthy
+Pakistan,Jiwani,157,Unhealthy,0,Good,31,Good,0,Good,157,Unhealthy
+Pakistan,Rohri,188,Unhealthy,1,Good,56,Moderate,1,Good,188,Unhealthy
+Pakistan,Ghauspur,169,Unhealthy,1,Good,47,Good,0,Good,169,Unhealthy
+Pakistan,Khalabat,164,Unhealthy,3,Good,139,Unhealthy for Sensitive Groups,0,Good,164,Unhealthy
+Pakistan,Chak Azam Sahu,193,Unhealthy,2,Good,140,Unhealthy for Sensitive Groups,1,Good,193,Unhealthy
+Pakistan,Choa Saidan Shah,144,Unhealthy for Sensitive Groups,2,Good,99,Moderate,0,Good,144,Unhealthy for Sensitive Groups
+Pakistan,Shabqadar,73,Moderate,1,Good,58,Moderate,0,Good,73,Moderate
+Pakistan,Kharan,154,Unhealthy,1,Good,46,Good,0,Good,154,Unhealthy
+Pakistan,Gujar Khan,151,Unhealthy,2,Good,130,Unhealthy for Sensitive Groups,0,Good,151,Unhealthy
+Pakistan,Dunga Bunga,162,Unhealthy,3,Good,162,Unhealthy,0,Good,157,Unhealthy
+Pakistan,Naudero,184,Unhealthy,1,Good,97,Moderate,1,Good,184,Unhealthy
+Pakistan,Harnoli,174,Unhealthy,4,Good,52,Moderate,5,Good,174,Unhealthy
+Pakistan,Jatoi,186,Unhealthy,2,Good,47,Good,3,Good,186,Unhealthy
+Pakistan,Kandiaro,136,Unhealthy for Sensitive Groups,1,Good,30,Good,3,Good,136,Unhealthy for Sensitive Groups
+Pakistan,Kasur,173,Unhealthy,4,Good,76,Moderate,8,Good,173,Unhealthy
+Pakistan,Shahdadkot,158,Unhealthy,1,Good,57,Moderate,1,Good,158,Unhealthy
+Pakistan,Kamalia,192,Unhealthy,2,Good,137,Unhealthy for Sensitive Groups,1,Good,192,Unhealthy
+Pakistan,Kambar,173,Unhealthy,1,Good,61,Moderate,2,Good,173,Unhealthy
+Pakistan,Mangla,244,Very Unhealthy,2,Good,120,Unhealthy for Sensitive Groups,1,Good,244,Very Unhealthy
+Pakistan,Jauharabad,224,Very Unhealthy,2,Good,141,Unhealthy for Sensitive Groups,1,Good,224,Very Unhealthy
+Pakistan,Jhol,172,Unhealthy,1,Good,43,Good,0,Good,172,Unhealthy
+Pakistan,Hafizabad,248,Very Unhealthy,2,Good,149,Unhealthy for Sensitive Groups,1,Good,248,Very Unhealthy
+Pakistan,Hasan Abdal,472,Hazardous,1,Good,46,Good,0,Good,374,Hazardous
+Pakistan,Raiwind,186,Unhealthy,3,Good,179,Unhealthy,2,Good,186,Unhealthy
+Pakistan,Sehwan,162,Unhealthy,1,Good,39,Good,0,Good,162,Unhealthy
+Pakistan,Chitral,71,Moderate,1,Good,7,Good,1,Good,71,Moderate
+Pakistan,Chuhar Kana,175,Unhealthy,3,Good,175,Unhealthy,1,Good,161,Unhealthy
+Pakistan,Ubauro,166,Unhealthy,2,Good,13,Good,15,Good,166,Unhealthy
+Pakistan,Tando Jam,162,Unhealthy,1,Good,24,Good,2,Good,162,Unhealthy
+Pakistan,Vihari,224,Very Unhealthy,5,Good,18,Good,19,Good,224,Very Unhealthy
+Pakistan,Gujranwala,175,Unhealthy,6,Good,35,Good,15,Good,175,Unhealthy
+Pakistan,Chaman,134,Unhealthy for Sensitive Groups,0,Good,44,Good,0,Good,134,Unhealthy for Sensitive Groups
+Pakistan,Kalaswala,221,Very Unhealthy,3,Good,183,Unhealthy,1,Good,221,Very Unhealthy
+Pakistan,Haripur,157,Unhealthy,2,Good,157,Unhealthy,1,Good,121,Unhealthy for Sensitive Groups
+Pakistan,Swabi,197,Unhealthy,3,Good,197,Unhealthy,1,Good,130,Unhealthy for Sensitive Groups
+Pakistan,Lakki Marwat,181,Unhealthy,3,Good,104,Unhealthy for Sensitive Groups,2,Good,181,Unhealthy
+Pakistan,Ghotki,194,Unhealthy,1,Good,59,Moderate,1,Good,194,Unhealthy
+Pakistan,Hangu,159,Unhealthy,2,Good,64,Moderate,0,Good,159,Unhealthy
+Pakistan,Harnai,134,Unhealthy for Sensitive Groups,1,Good,44,Good,0,Good,134,Unhealthy for Sensitive Groups
+Pakistan,Ormara,165,Unhealthy,1,Good,32,Good,0,Good,165,Unhealthy
+Pakistan,Hazro,200,Unhealthy,3,Good,200,Unhealthy,2,Good,104,Unhealthy for Sensitive Groups
+Pakistan,Jand,146,Unhealthy for Sensitive Groups,3,Good,136,Unhealthy for Sensitive Groups,6,Good,146,Unhealthy for Sensitive Groups
+Pakistan,Jhang,208,Very Unhealthy,2,Good,156,Unhealthy,1,Good,208,Very Unhealthy
+Pakistan,Kot Samaba,210,Very Unhealthy,1,Good,54,Moderate,1,Good,210,Very Unhealthy
+Pakistan,Sambrial,175,Unhealthy,3,Good,175,Unhealthy,1,Good,153,Unhealthy
+Pakistan,Zafarwal,161,Unhealthy,5,Good,41,Good,9,Good,161,Unhealthy
+Pakistan,Zhob,177,Unhealthy,2,Good,56,Moderate,0,Good,177,Unhealthy
+Pakistan,Burewala,311,Hazardous,2,Good,109,Unhealthy for Sensitive Groups,1,Good,311,Hazardous
+Pakistan,Amangarh,198,Unhealthy,3,Good,198,Unhealthy,2,Good,98,Moderate
+Pakistan,Rajanpur,175,Unhealthy,1,Good,40,Good,3,Good,175,Unhealthy
+Pakistan,Sharqpur,179,Unhealthy,5,Good,74,Moderate,9,Good,179,Unhealthy
+Pakistan,Sarai Sidhu,186,Unhealthy,5,Good,42,Good,13,Good,186,Unhealthy
+Pakistan,Daulatpur,114,Unhealthy for Sensitive Groups,1,Good,25,Good,2,Good,114,Unhealthy for Sensitive Groups
+Pakistan,Dir,59,Moderate,0,Good,45,Good,0,Good,59,Moderate
+Pakistan,Muzaffarabad,80,Moderate,1,Good,80,Moderate,0,Good,60,Moderate
+Pakistan,Larkana,159,Unhealthy,1,Good,48,Good,0,Good,159,Unhealthy
+Pakistan,Lachi,166,Unhealthy,2,Good,103,Unhealthy for Sensitive Groups,0,Good,166,Unhealthy
+Pakistan,Pishin,102,Unhealthy for Sensitive Groups,0,Good,45,Good,0,Good,102,Unhealthy for Sensitive Groups
+Pakistan,Renala Khurd,166,Unhealthy,2,Good,133,Unhealthy for Sensitive Groups,1,Good,166,Unhealthy
+Pakistan,Chak Jhumra,204,Very Unhealthy,4,Good,204,Very Unhealthy,3,Good,188,Unhealthy
+Pakistan,Thul,170,Unhealthy,1,Good,58,Moderate,1,Good,170,Unhealthy
+Pakistan,Warah,168,Unhealthy,1,Good,52,Moderate,1,Good,168,Unhealthy
+Pakistan,Khairpur,165,Unhealthy,1,Good,44,Good,0,Good,165,Unhealthy
+Pakistan,Khanewal,158,Unhealthy,3,Good,156,Unhealthy,1,Good,158,Unhealthy
+Pakistan,Pabbi,168,Unhealthy,3,Good,168,Unhealthy,1,Good,152,Unhealthy
+Pakistan,Lahore,161,Unhealthy,3,Good,129,Unhealthy for Sensitive Groups,1,Good,161,Unhealthy
+Pakistan,Khangah Dogran,178,Unhealthy,5,Good,47,Good,10,Good,178,Unhealthy
+Pakistan,Matiari,161,Unhealthy,1,Good,27,Good,1,Good,161,Unhealthy
+Pakistan,Matli,146,Unhealthy for Sensitive Groups,1,Good,24,Good,2,Good,146,Unhealthy for Sensitive Groups
+Pakistan,Nushki,116,Unhealthy for Sensitive Groups,0,Good,35,Good,1,Good,116,Unhealthy for Sensitive Groups
+Pakistan,Fatehpur,187,Unhealthy,2,Good,129,Unhealthy for Sensitive Groups,0,Good,187,Unhealthy
+Pakistan,Sinjhoro,158,Unhealthy,1,Good,26,Good,2,Good,158,Unhealthy
+Pakistan,Mamu Kanjan,188,Unhealthy,2,Good,135,Unhealthy for Sensitive Groups,1,Good,188,Unhealthy
+Pakistan,Mardan,162,Unhealthy,3,Good,162,Unhealthy,1,Good,154,Unhealthy
+Pakistan,Muridke,182,Unhealthy,6,Good,43,Good,13,Good,182,Unhealthy
+Pakistan,Peshawar,192,Unhealthy,4,Good,107,Unhealthy for Sensitive Groups,4,Good,192,Unhealthy
+Pakistan,Wah,166,Unhealthy,3,Good,146,Unhealthy for Sensitive Groups,0,Good,166,Unhealthy
+Pakistan,Jacobabad,168,Unhealthy,1,Good,67,Moderate,1,Good,168,Unhealthy
+Pakistan,Kundian,174,Unhealthy,3,Good,139,Unhealthy for Sensitive Groups,0,Good,174,Unhealthy
+Pakistan,Sarhari,165,Unhealthy,1,Good,41,Good,0,Good,165,Unhealthy
+Pakistan,Kulachi,177,Unhealthy,2,Good,100,Unhealthy for Sensitive Groups,0,Good,177,Unhealthy
+Pakistan,Mirwah,163,Unhealthy,1,Good,43,Good,0,Good,163,Unhealthy
+Pakistan,Thano Bula Khan,174,Unhealthy,1,Good,40,Good,0,Good,174,Unhealthy
+Pakistan,Pasni,189,Unhealthy,3,Good,40,Good,4,Good,189,Unhealthy
+Pakistan,Pasrur,164,Unhealthy,3,Good,147,Unhealthy for Sensitive Groups,1,Good,164,Unhealthy
+Pakistan,Chichawatni,439,Hazardous,1,Good,47,Good,0,Good,361,Hazardous
+Pakistan,Chor,194,Unhealthy,1,Good,41,Good,0,Good,194,Unhealthy
+Pakistan,Tando Adam,166,Unhealthy,1,Good,44,Good,0,Good,166,Unhealthy
+Pakistan,Tank,170,Unhealthy,2,Good,83,Moderate,0,Good,170,Unhealthy
+Pakistan,Surab,92,Moderate,0,Good,36,Good,0,Good,92,Moderate
+Pakistan,Charsadda,100,Unhealthy for Sensitive Groups,2,Good,100,Unhealthy for Sensitive Groups,1,Good,90,Moderate
+Pakistan,Uthal,167,Unhealthy,1,Good,39,Good,0,Good,167,Unhealthy
+Pakistan,Moro,157,Unhealthy,1,Good,40,Good,0,Good,157,Unhealthy
+Pakistan,Chakwal,171,Unhealthy,3,Good,157,Unhealthy,0,Good,171,Unhealthy
+Pakistan,Dera Bugti,162,Unhealthy,1,Good,63,Moderate,0,Good,162,Unhealthy
+Pakistan,Kamoke,167,Unhealthy,3,Good,167,Unhealthy,1,Good,165,Unhealthy
+Pakistan,Gharo,150,Unhealthy,1,Good,31,Good,1,Good,150,Unhealthy
+Pakistan,Sujawal,150,Unhealthy,1,Good,36,Good,0,Good,150,Unhealthy
+Pakistan,Tando Muhammad Khan,175,Unhealthy,1,Good,47,Good,0,Good,175,Unhealthy
+Pakistan,Sargodha,168,Unhealthy,4,Good,71,Moderate,7,Good,168,Unhealthy
+Pakistan,Hingorja,149,Unhealthy for Sensitive Groups,1,Good,26,Good,4,Good,149,Unhealthy for Sensitive Groups
+Pakistan,Khairpur Nathan Shah,142,Unhealthy for Sensitive Groups,1,Good,35,Good,4,Good,142,Unhealthy for Sensitive Groups
+Pakistan,Mingaora,163,Unhealthy,4,Good,41,Good,6,Good,163,Unhealthy
+Pakistan,Narang,173,Unhealthy,6,Good,36,Good,14,Good,173,Unhealthy
+Pakistan,Pano Aqil,156,Unhealthy,2,Good,15,Good,11,Good,156,Unhealthy
+Pakistan,Bhera,194,Unhealthy,4,Good,194,Unhealthy,1,Good,173,Unhealthy
+Pakistan,Chawinda,152,Unhealthy,3,Good,139,Unhealthy for Sensitive Groups,1,Good,152,Unhealthy
+Pakistan,Chishtian Mandi,190,Unhealthy,2,Good,107,Unhealthy for Sensitive Groups,1,Good,190,Unhealthy
+Pakistan,Basirpur,168,Unhealthy,2,Good,125,Unhealthy for Sensitive Groups,0,Good,168,Unhealthy
+Pakistan,Dinga,196,Unhealthy,2,Good,164,Unhealthy,1,Good,196,Unhealthy
+Pakistan,Mandi Bahauddin,156,Unhealthy,2,Good,117,Unhealthy for Sensitive Groups,0,Good,156,Unhealthy
+Pakistan,Ahmadpur East,196,Unhealthy,2,Good,117,Unhealthy for Sensitive Groups,0,Good,196,Unhealthy
+Pakistan,Sadiqabad,203,Very Unhealthy,1,Good,89,Moderate,1,Good,203,Very Unhealthy
+Pakistan,Hasilpur,198,Unhealthy,1,Good,87,Moderate,0,Good,198,Unhealthy
+Pakistan,Sarai Naurang,175,Unhealthy,2,Good,85,Moderate,0,Good,175,Unhealthy
+Pakistan,Kamir,182,Unhealthy,2,Good,128,Unhealthy for Sensitive Groups,1,Good,182,Unhealthy
+Pakistan,Nasirabad,162,Unhealthy,1,Good,69,Moderate,1,Good,162,Unhealthy
+Pakistan,Ratodero,165,Unhealthy,1,Good,75,Moderate,1,Good,165,Unhealthy
+Pakistan,Sibi,159,Unhealthy,1,Good,81,Moderate,0,Good,159,Unhealthy
+Pakistan,Pind Dadan Khan,209,Very Unhealthy,2,Good,154,Unhealthy,1,Good,209,Very Unhealthy
+Pakistan,Dera Din Panah,176,Unhealthy,2,Good,113,Unhealthy for Sensitive Groups,0,Good,176,Unhealthy
+Pakistan,Murree,124,Unhealthy for Sensitive Groups,1,Good,124,Unhealthy for Sensitive Groups,0,Good,75,Moderate
+Pakistan,Kotri,184,Unhealthy,1,Good,46,Good,0,Good,184,Unhealthy
+Pakistan,Quetta,125,Unhealthy for Sensitive Groups,0,Good,42,Good,0,Good,125,Unhealthy for Sensitive Groups
+Pakistan,Bhawana,178,Unhealthy,2,Good,127,Unhealthy for Sensitive Groups,1,Good,178,Unhealthy
+Pakistan,Kohlu,150,Unhealthy,1,Good,46,Good,0,Good,150,Unhealthy
+Pakistan,Chunian,438,Hazardous,1,Good,56,Moderate,1,Good,383,Hazardous
+Pakistan,Khipro,161,Unhealthy,1,Good,30,Good,2,Good,161,Unhealthy
+Pakistan,Kotli Loharan,169,Unhealthy,5,Good,31,Good,12,Good,169,Unhealthy
+Pakistan,Phalia,170,Unhealthy,5,Good,36,Good,12,Good,170,Unhealthy
+Pakistan,Hala,157,Unhealthy,1,Good,24,Good,2,Good,157,Unhealthy
+Pakistan,Kahuta,149,Unhealthy for Sensitive Groups,2,Good,129,Unhealthy for Sensitive Groups,0,Good,149,Unhealthy for Sensitive Groups
+Pakistan,Kalat,148,Unhealthy for Sensitive Groups,0,Good,43,Good,0,Good,148,Unhealthy for Sensitive Groups
+Pakistan,Pattoki,174,Unhealthy,4,Good,85,Moderate,7,Good,174,Unhealthy
+Pakistan,Gambat,168,Unhealthy,1,Good,48,Good,1,Good,168,Unhealthy
+Pakistan,Naukot,160,Unhealthy,1,Good,38,Good,0,Good,160,Unhealthy
+Pakistan,Nawabshah,164,Unhealthy,1,Good,40,Good,0,Good,164,Unhealthy
+Pakistan,Risalpur,110,Unhealthy for Sensitive Groups,2,Good,107,Unhealthy for Sensitive Groups,3,Good,110,Unhealthy for Sensitive Groups
+Pakistan,Loralai,122,Unhealthy for Sensitive Groups,1,Good,44,Good,0,Good,122,Unhealthy for Sensitive Groups
+Pakistan,Paharpur,174,Unhealthy,3,Good,149,Unhealthy for Sensitive Groups,0,Good,174,Unhealthy
+Pakistan,Faqirwali,170,Unhealthy,3,Good,150,Unhealthy,0,Good,170,Unhealthy
+Pakistan,Diplo,167,Unhealthy,1,Good,35,Good,0,Good,167,Unhealthy
+Pakistan,Daud Khel,180,Unhealthy,3,Good,113,Unhealthy for Sensitive Groups,2,Good,180,Unhealthy
+Pakistan,Lalian,173,Unhealthy,2,Good,128,Unhealthy for Sensitive Groups,1,Good,173,Unhealthy
+Pakistan,Khuzdar,151,Unhealthy,0,Good,43,Good,0,Good,151,Unhealthy
+Pakistan,Kharian,158,Unhealthy,3,Good,146,Unhealthy for Sensitive Groups,0,Good,158,Unhealthy
+Pakistan,Fort Abbas,206,Very Unhealthy,1,Good,67,Moderate,0,Good,206,Very Unhealthy
+Pakistan,Shujaabad,196,Unhealthy,1,Good,94,Moderate,1,Good,196,Unhealthy
+Pakistan,Ahmadpur Sial,263,Very Unhealthy,1,Good,58,Moderate,1,Good,263,Very Unhealthy
+Pakistan,Mithi,196,Unhealthy,1,Good,37,Good,0,Good,196,Unhealthy
+Pakistan,Topi,169,Unhealthy,3,Good,163,Unhealthy,1,Good,169,Unhealthy
+Pakistan,Alipur Chatha,163,Unhealthy,3,Good,163,Unhealthy,2,Good,160,Unhealthy
+Pakistan,Warburton,159,Unhealthy,3,Good,152,Unhealthy,1,Good,159,Unhealthy
+Pakistan,Utmanzai,77,Moderate,1,Good,55,Moderate,0,Good,77,Moderate
+Pakistan,Gojra,175,Unhealthy,5,Good,71,Moderate,8,Good,175,Unhealthy
+Pakistan,Malakwal,149,Unhealthy for Sensitive Groups,2,Good,128,Unhealthy for Sensitive Groups,1,Good,149,Unhealthy for Sensitive Groups
+Pakistan,Tando Ghulam Ali,156,Unhealthy,1,Good,43,Good,0,Good,156,Unhealthy
+Pakistan,Setharja,151,Unhealthy,1,Good,26,Good,3,Good,151,Unhealthy
+Pakistan,Zahir Pir,219,Very Unhealthy,1,Good,49,Good,0,Good,219,Very Unhealthy
+Pakistan,Zaida,198,Unhealthy,3,Good,198,Unhealthy,1,Good,135,Unhealthy for Sensitive Groups
+Pakistan,Nowshera,202,Very Unhealthy,3,Good,202,Very Unhealthy,2,Good,104,Unhealthy for Sensitive Groups
+Pakistan,Rawalpindi,129,Unhealthy for Sensitive Groups,2,Good,129,Unhealthy for Sensitive Groups,1,Good,92,Moderate
+Pakistan,Taunsa,190,Unhealthy,3,Good,187,Unhealthy,3,Good,190,Unhealthy
+Pakistan,Darya Khan,173,Unhealthy,3,Good,149,Unhealthy for Sensitive Groups,0,Good,173,Unhealthy
+Pakistan,Kashmor,175,Unhealthy,1,Good,50,Good,1,Good,175,Unhealthy
+Pakistan,Dullewala,181,Unhealthy,3,Good,107,Unhealthy for Sensitive Groups,3,Good,181,Unhealthy
+Pakistan,Badin,96,Moderate,1,Good,25,Good,1,Good,96,Moderate
+Pakistan,Bhakkar,183,Unhealthy,2,Good,122,Unhealthy for Sensitive Groups,0,Good,183,Unhealthy
+Pakistan,Badah,185,Unhealthy,1,Good,76,Moderate,2,Good,185,Unhealthy
+Pakistan,Garh Maharaja,174,Unhealthy,5,Good,46,Good,9,Good,174,Unhealthy
+Pakistan,Yazman,500,Hazardous,1,Good,43,Good,0,Good,428,Hazardous
+Pakistan,Khewra,204,Very Unhealthy,2,Good,154,Unhealthy,1,Good,204,Very Unhealthy
+Pakistan,Rojhan,188,Unhealthy,1,Good,55,Moderate,0,Good,188,Unhealthy
+Pakistan,Kalabagh,133,Unhealthy for Sensitive Groups,3,Good,101,Unhealthy for Sensitive Groups,6,Good,133,Unhealthy for Sensitive Groups
+Pakistan,Shahpur Chakar,166,Unhealthy,1,Good,43,Good,0,Good,166,Unhealthy
+Pakistan,Ranipur,167,Unhealthy,1,Good,47,Good,1,Good,167,Unhealthy
+Pakistan,Pakpattan,328,Hazardous,2,Good,107,Unhealthy for Sensitive Groups,1,Good,328,Hazardous
+Pakistan,Sukkur,171,Unhealthy,1,Good,49,Good,1,Good,171,Unhealthy
+Pakistan,Usta Muhammad,172,Unhealthy,1,Good,76,Moderate,2,Good,172,Unhealthy
+Pakistan,Bhopalwala,153,Unhealthy,2,Good,131,Unhealthy for Sensitive Groups,1,Good,153,Unhealthy
+Pakistan,Isa Khel,178,Unhealthy,3,Good,115,Unhealthy for Sensitive Groups,2,Good,178,Unhealthy
+Pakistan,Pindi Gheb,179,Unhealthy,2,Good,179,Unhealthy,1,Good,153,Unhealthy
+Pakistan,Sillanwali,177,Unhealthy,3,Good,177,Unhealthy,1,Good,167,Unhealthy
+Pakistan,Dipalpur,167,Unhealthy,4,Good,95,Moderate,6,Good,167,Unhealthy
+Pakistan,Wazirabad,171,Unhealthy,5,Good,34,Good,14,Good,171,Unhealthy
+Pakistan,Shekhupura,184,Unhealthy,6,Good,40,Good,15,Good,184,Unhealthy
+Pakistan,Mankera,192,Unhealthy,3,Good,116,Unhealthy for Sensitive Groups,3,Good,192,Unhealthy
+Pakistan,Sanghar,175,Unhealthy,1,Good,44,Good,0,Good,175,Unhealthy
+Pakistan,Karak,77,Moderate,0,Good,34,Good,0,Good,77,Moderate
+Pakistan,Mehrabpur,149,Unhealthy for Sensitive Groups,2,Good,21,Good,11,Good,149,Unhealthy for Sensitive Groups
+Pakistan,Okara,171,Unhealthy,4,Good,89,Moderate,6,Good,171,Unhealthy
+Pakistan,Daur,169,Unhealthy,1,Good,38,Good,1,Good,169,Unhealthy
+Pakistan,Bhag,168,Unhealthy,1,Good,76,Moderate,0,Good,168,Unhealthy
+Pakistan,Shahpur City,165,Unhealthy,2,Good,154,Unhealthy,1,Good,165,Unhealthy
+Pakistan,Dokri,170,Unhealthy,1,Good,49,Good,1,Good,170,Unhealthy
+Pakistan,Dunyapur,168,Unhealthy,3,Good,148,Unhealthy for Sensitive Groups,1,Good,168,Unhealthy
+Pakistan,Daultala,170,Unhealthy,5,Good,29,Good,12,Good,170,Unhealthy
+Pakistan,Garhi Khairo,171,Unhealthy,1,Good,44,Good,3,Good,171,Unhealthy
+Pakistan,Jhawarian,191,Unhealthy,4,Good,191,Unhealthy,1,Good,172,Unhealthy
+Pakistan,Khangarh,189,Unhealthy,3,Good,186,Unhealthy,2,Good,189,Unhealthy
+Pakistan,Sita Road,182,Unhealthy,1,Good,81,Moderate,1,Good,182,Unhealthy
+Pakistan,Hunza,70,Moderate,0,Good,31,Good,0,Good,70,Moderate
+Pakistan,Daska,155,Unhealthy,3,Good,132,Unhealthy for Sensitive Groups,1,Good,155,Unhealthy
+Pakistan,Jalalpur Jattan,162,Unhealthy,4,Good,47,Good,8,Good,162,Unhealthy
+Pakistan,Kunri,167,Unhealthy,0,Good,38,Good,0,Good,167,Unhealthy
+Pakistan,Sanjwal,203,Very Unhealthy,3,Good,203,Very Unhealthy,3,Good,109,Unhealthy for Sensitive Groups
+Pakistan,Jhelum,168,Unhealthy,5,Good,33,Good,11,Good,168,Unhealthy
+Pakistan,Baffa,165,Unhealthy,3,Good,139,Unhealthy for Sensitive Groups,0,Good,165,Unhealthy
+Pakistan,Raja Jang,163,Unhealthy,3,Good,163,Unhealthy,1,Good,161,Unhealthy
+Pakistan,Miro Khan,168,Unhealthy,1,Good,57,Moderate,1,Good,168,Unhealthy
+Pakistan,Chak,166,Unhealthy,1,Good,46,Good,0,Good,166,Unhealthy
+Pakistan,Dijkot,169,Unhealthy,2,Good,142,Unhealthy for Sensitive Groups,1,Good,169,Unhealthy
+Pakistan,Dadu,166,Unhealthy,1,Good,40,Good,0,Good,166,Unhealthy
+Pakistan,Daro,165,Unhealthy,1,Good,44,Good,0,Good,165,Unhealthy
+Pakistan,Kot Diji,179,Unhealthy,1,Good,46,Good,0,Good,179,Unhealthy
+Pakistan,Mianwali,159,Unhealthy,2,Good,159,Unhealthy,1,Good,153,Unhealthy
+Pakistan,Faruka,178,Unhealthy,2,Good,120,Unhealthy for Sensitive Groups,0,Good,178,Unhealthy
+Pakistan,Sarai Alamgir,181,Unhealthy,2,Good,170,Unhealthy,1,Good,181,Unhealthy
+Pakistan,Dajal,176,Unhealthy,2,Good,121,Unhealthy for Sensitive Groups,0,Good,176,Unhealthy
+Pakistan,Mian Channun,252,Very Unhealthy,2,Good,135,Unhealthy for Sensitive Groups,1,Good,252,Very Unhealthy
+Pakistan,Havelian,124,Unhealthy for Sensitive Groups,1,Good,124,Unhealthy for Sensitive Groups,0,Good,85,Moderate
